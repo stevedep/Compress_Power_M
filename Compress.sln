@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4DF76451-A46A-4C0B-BE03-459FAAFA07E6}") = "Compress", "Compress\Compress.mproj", "{3629A564-134D-4242-82C6-C89170B96D40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3629A564-134D-4242-82C6-C89170B96D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3629A564-134D-4242-82C6-C89170B96D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3629A564-134D-4242-82C6-C89170B96D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3629A564-134D-4242-82C6-C89170B96D40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B93F4291-0E8D-41C3-ABA1-D430E80160DC}
+	EndGlobalSection
+EndGlobal
